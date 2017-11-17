@@ -12,7 +12,7 @@ Installation
 
 ### Download the data
 * Clone this repo to your computer.
-* Get into the folder using `cd Classification-using-KNN`.
+* Get into the folder using `cd ML-Classification-using-KNN`.
 
 
 Usage
